@@ -312,8 +312,3 @@ const Getallimage = () => {
 };
 
 export default Getallimage;
-
-// [remote "origin"]
-//         url = http://j.sachin:Sachin.2628@139.59.78.81:8282/ijwork/matrix-react-sdk.git
-//         fetch = +refs/heads/*:refs/remotes/origin/*
-// git remote set-url --add
