@@ -1,16 +1,7 @@
-import "./App.css";
+import React, { Component } from "react";
+import Getallimage from "./component/Getallimage";
 
-let x;
-console.log("Aman");
-
-function App() {
-  console.log("Hello Aman");
-  return (
-    <div className="App">
-      <h1>Hello World</h1>
-      <></>
-    </div>
-  );
-}
-
+const App = () => {
+  return <Getallimage />;
+};
 export default App;
